@@ -1,5 +1,7 @@
 # Alarm Clock
 
+![Alarm Clock TUI](image.png)
+
 Terminal-based alarm clock with a Textual TUI. See `docs/REQUIREMENTS.md` and `docs/DESIGN.md`.
 
 ## Setup
